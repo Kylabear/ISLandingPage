@@ -34,7 +34,7 @@ $restaurants = fetch_entries('restaurants', $conn);
     <main>
         <section class="intro">
             <h1>Welcome to Ky the Explorer</h1>
-            <p>Discover the best cafes and restaurants in Baguio City.</p>
+            <p>Discover My best cafes and restaurants in Baguio City.</p>
             <a href="#learn-more" class="cta-button">Learn More</a>
         </section>
 
